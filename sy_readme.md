@@ -21,6 +21,9 @@ Data Dictionary:
 |act_total_75th_percentile|float|score_by_school|75th percentile total ACT score of the accepted students|
 
 https://www.compassprep.com/college-profiles/
+
 https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf
+
 https://hms.harvard.edu/
+
 https://www.queens.edu/academics/majors-minors-programs/nursing-bsn.html
