@@ -23,6 +23,8 @@ Data Dictionary:
 |sat_total_75th_percentile|float|score_by_school|75th percentile total SAT score of the accepted students|
 |act_total_75th_percentile|float|score_by_school|75th percentile total ACT score of the accepted students|
 
+Ultimately, a higher score on these tests is always a preferable one.  Nonetheless, it can ease the pressure off students who know they are aiming for programs where the competition is looser.  If the student knows they want to enter a field or attend a school with a lower average score, they can focus on getting their scores just high enough to stand out, and then spend the rest of their energy elsewhile.  Students that want a field or school with a much higher average, however, must focus their energy on improving their score as much as possible so as to make themselves an exciting candidate.
+
 https://www.compassprep.com/college-profiles/
 
 https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf
