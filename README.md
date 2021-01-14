@@ -1,5 +1,5 @@
 ## What score do I need to get into the school and/or field of my choice?
-./code/code-samuel-yeager.ipynb#Background
+./code/code-samuel-yeager.ipynb
 
 For this course, I am pretending that I am tasked with providing guidance to students, all of whom want to know what SAT/ACT score they should be aiming for in order to get into the school or program they desire.
 
