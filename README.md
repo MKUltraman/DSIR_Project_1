@@ -32,3 +32,10 @@ https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annu
 https://hms.harvard.edu/
 
 https://www.queens.edu/academics/majors-minors-programs/nursing-bsn.html
+
+https://www.huffpost.com/entry/why-a-perfect-sat-score-c_1_b_9219184
+
+https://blog.prepscholar.com/colleges-with-guaranteed-admission-based-on-sat-and-act-scores
+
+
+/code/code-samuel-yeager.ipynb#Background
