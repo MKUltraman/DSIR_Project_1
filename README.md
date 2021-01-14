@@ -1,3 +1,6 @@
+## What score do I need to get into the school and/or field of my choice?
+./code/code-samuel-yeager.ipynb#Background
+
 For this course, I am pretending that I am tasked with providing guidance to students, all of whom want to know what SAT/ACT score they should be aiming for in order to get into the school or program they desire.
 
 I begin by looking at the average SAT scores by intended major.  This provides me with scores for each field, and thus I can recommend that students looking to enter fields such as mathematics or medicine set ther goals on exceptionally high scores (past 1300) if they want to stand out from the crowd.  Students with goals of entering security or construction fields can set their goals on much lower totals (higher than 1000) to stand out.  
@@ -38,4 +41,3 @@ https://www.huffpost.com/entry/why-a-perfect-sat-score-c_1_b_9219184
 https://blog.prepscholar.com/colleges-with-guaranteed-admission-based-on-sat-and-act-scores
 
 
-/code/code-samuel-yeager.ipynb#Background
